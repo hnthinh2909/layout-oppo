@@ -1,0 +1,2 @@
+- I just complete it with html and css basic.
+- I will make it better in a day of next week like responsive. 
