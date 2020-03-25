@@ -1,2 +1,3 @@
 - I just complete it with html and css basic.
 - I will make it better in a day of next week like responsive. 
+- This file is a layout of Oppo page https://www.oppo.com/vn/
